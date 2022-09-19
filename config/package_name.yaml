@@ -1,0 +1,15 @@
+Android:
+  files:
+    Huawei:
+      com.huawei.filemanager
+    Android:
+      com.android.fileexplorer
+
+  exoplayer:
+    com.google.android.exoplayer2.demo
+
+IOS:
+  ios-sample-player:
+    com.globallogic.dvdecoding
+  ios-unit-test:
+    com.dolby.ios-unit-test

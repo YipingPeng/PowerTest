@@ -1,0 +1,83 @@
+gallery-test:
+#  - PWT-avc_sdr_8b-720P-MP4-23_976
+#  - PWT-avc_sdr_8b-720P-MP4-29_97
+#  - PWT-avc_sdr_8b-720P-MP4-59_94
+#  - PWT-avc_sdr_8b-FHD-MP4-23_976
+#  - PWT-avc_sdr_8b-FHD-MP4-29_97
+#  - PWT-avc_sdr_8b-FHD-MP4-59_94
+  - PWT-hevc_sdr_10b-FHD-MP4-23_976
+  - PWT-hevc_sdr_10b-FHD-MP4-29_97
+  - PWT-hevc_sdr_10b-FHD-MP4-59_94
+  - PWT-hevc_sdr_10b-UHD-MP4-23_976
+  - PWT-hevc_sdr_10b-UHD-MP4-29_97
+  - PWT-hevc_sdr_10b-UHD-MP4-59_94
+
+low-power-mode-test:
+  - PWT-dvhe.05_00-FHD-MP4-23_976
+  - PWT-dvhe.05_00-FHD-MP4-29_97
+  - PWT-dvhe.05_00-FHD-MP4-59_94
+  - PWT-dvhe.05_00-UHD-MP4-23_976
+  - PWT-dvhe.05_00-UHD-MP4-29_97
+  - PWT-dvhe.05_00-UHD-MP4-59_94
+  - PWT-dvhe.08_04-FHD-MP4-23_976
+  - PWT-dvhe.08_04-FHD-MP4-29_97
+  - PWT-dvhe.08_04-FHD-MP4-59_94
+  - PWT-dvhe.08_04-UHD-MP4-23_976
+  - PWT-dvhe.08_04-UHD-MP4-29_97
+  - PWT-dvhe.08_04-UHD-MP4-59_94
+#  - PWT-davc.32_03-CR-720p-MP4-23_976
+#  - PWT-davc.32_03-CR-720p-MP4-29_97
+#  - PWT-davc.32_03-CR-720p-MP4-59_94
+#  - PWT-davc.32_03-CR-FHD-MP4-23_976
+#  - PWT-davc.32_03-CR-FHD-MP4-29_97
+#  - PWT-davc.32_03-CR-FHD-MP4-59_94
+
+dolby-vision-disabled-test:
+#  - PWT-avc_sdr_8b-720P-MP4-23_976
+#  - PWT-avc_sdr_8b-720P-MP4-29_97
+#  - PWT-avc_sdr_8b-720P-MP4-59_94
+#  - PWT-avc_sdr_8b-FHD-MP4-23_976
+#  - PWT-avc_sdr_8b-FHD-MP4-29_97
+#  - PWT-avc_sdr_8b-FHD-MP4-59_94
+  - PWT-hevc_sdr_10b-FHD-MP4-23_976
+  - PWT-hevc_sdr_10b-FHD-MP4-29_97
+  - PWT-hevc_sdr_10b-FHD-MP4-59_94
+  - PWT-hevc_sdr_10b-UHD-MP4-23_976
+  - PWT-hevc_sdr_10b-UHD-MP4-29_97
+  - PWT-hevc_sdr_10b-UHD-MP4-59_94
+
+
+standard-mode-test:
+#  - PWT-avc_sdr_8b-720P-MP4-23_976
+#  - PWT-avc_sdr_8b-720P-MP4-29_97
+#  - PWT-avc_sdr_8b-720P-MP4-59_94
+#  - PWT-avc_sdr_8b-FHD-MP4-23_976
+#  - PWT-avc_sdr_8b-FHD-MP4-29_97
+#  - PWT-avc_sdr_8b-FHD-MP4-59_94
+  - PWT-hevc_sdr_10b-FHD-MP4-23_976
+  - PWT-hevc_sdr_10b-FHD-MP4-29_97
+  - PWT-hevc_sdr_10b-FHD-MP4-59_94
+  - PWT-hevc_sdr_10b-UHD-MP4-23_976
+  - PWT-hevc_sdr_10b-UHD-MP4-29_97
+  - PWT-hevc_sdr_10b-UHD-MP4-59_94
+  - PWT-dvhe.05_00-FHD-MP4-23_976
+  - PWT-dvhe.05_00-FHD-MP4-29_97
+  - PWT-dvhe.05_00-FHD-MP4-59_94
+  - PWT-dvhe.05_00-UHD-MP4-23_976
+  - PWT-dvhe.05_00-UHD-MP4-29_97
+  - PWT-dvhe.05_00-UHD-MP4-59_94
+  - PWT-dvhe.08_04-FHD-MP4-23_976
+  - PWT-dvhe.08_04-FHD-MP4-29_97
+  - PWT-dvhe.08_04-FHD-MP4-59_94
+  - PWT-dvhe.08_04-UHD-MP4-23_976
+  - PWT-dvhe.08_04-UHD-MP4-29_97
+  - PWT-dvhe.08_04-UHD-MP4-59_94
+#  - PWT-davc.32_03-CR-720p-MP4-23_976
+#  - PWT-davc.32_03-CR-720p-MP4-29_97
+#  - PWT-davc.32_03-CR-720p-MP4-59_94
+#  - PWT-davc.32_03-CR-FHD-MP4-23_976
+#  - PWT-davc.32_03-CR-FHD-MP4-29_97
+#  - PWT-davc.32_03-CR-FHD-MP4-59_94
+
+
+
